@@ -1,0 +1,67 @@
+[
+    {
+        "courseId":"C101",
+        "title":"Introduction to Web Development",
+        "instructor":"John Doe",
+        "duration":"10 hours",
+        "rating":4.5,
+        "category":"Web Development",
+        "price":"$50",
+        "enrolled":"2500"
+    },
+
+    {
+        "courseId":"C102",
+        "title":"Introduction to Python",
+        "instructor":"Sunila Opps",
+        "duration":"20 Hours",
+        "rating":5.0,
+        "category":"Programming",
+        "price":"$90",
+        "enrolled":"3000"
+    },
+
+    {
+        "courseId":"C103",
+        "title":"Statistics for Data Science",
+        "instructor":"Bertrand Dkhar",
+        "duration":"15 Hours",
+        "rating":4.9,
+        "category":"Statistics",
+        "price":"$40",
+        "enrolled":"1000"
+    },
+
+    {
+        "courseId":"C104",
+        "title":"Internet of Things",
+        "instructor":"Sheetal Chettri",
+        "duration":"5 Hours",
+        "rating":4.0,
+        "category":"IoT",
+        "price":"$20",
+        "enrolled":"500"
+    },
+
+    {
+        "courseId":"C105",
+        "title":"Data Structures in C",
+        "instructor":"Jake Reds",
+        "duration":"50 Hours",
+        "rating":3.5,
+        "category":"Logic",
+        "price":"$70",
+        "enrolled":"2900"
+    },
+
+    {
+        "courseId":"C106",
+        "title":"Programming in C",
+        "instructor":"Jack Maine",
+        "duration":"10 hours",
+        "rating":4.3,
+        "category":"Programming",
+        "price":"$20",
+        "enrolled":"1500"
+    }
+]
